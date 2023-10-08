@@ -1,30 +1,34 @@
-<div align="center">
-  <img src="iphone.png" alt="iPhone Image" width="300">
-</div>
 
-#  Data Scientist 👨‍💻
+# Satyam Sharma | Data Scientist 👨‍💻
 
 ## About Me
 
 Welcome to my GitHub profile! 🚀 I'm a data scientist with a passion for Steve Jobs' innovative spirit. Just like Steve, I believe in thinking different and using data to drive extraordinary results.
 
-## Data Alchemist 🔮
+## 🤝 Integration Aficionado
 
-I transform raw data into valuable insights. With a touch of magic and a sprinkle of code, I extract hidden gems from complex datasets. 📊
+I'm fascinated by the integration aspect of data science. In the programming world, the possibilities are endless. Whether it's connecting Python to C++ or any other technology stack, I'm up for the challenge. 🌐
+
 
 ## Design Matters 🎨
 
 Much like Apple's attention to detail, I prioritize aesthetics in my projects. Beautiful data visualization and user-friendly interfaces are my signatures. ✨
 
-## Connect with Me 🌐
+# Skills 🚀
 
-Let's connect and collaborate on exciting data-driven projects. Reach out to me via LinkedIn, Twitter, or GitHub. I'm excited to work with like-minded individuals! 🤝
+ ![kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e94133f66 5495283515234781640788](https://github.com/codedestructed007/codedestructed007/assets/55931484/eae1c0bd-bd54-40a4-aba0-ee8387c62374)![download-removebg-preview](https://github.com/codedestructed007/codedestructed007/assets/55931484/266e5f9a-28cb-47e6-b347-352982096c49)![Powered-By-AWSLogo@zeevector](https://github.com/codedestructed007/codedestructed007/assets/55931484/8f62a147-8503-41a1-9699-6afc0afeb0f4)![icons8-docker-48](https://github.com/codedestructed007/codedestructed007/assets/55931484/27b96710-8579-4d5b-9aa1-97050c47adf7)![181510038-e38f4001-c304-411e-8f45-f71554eb9763](https://github.com/codedestructed007/codedestructed007/assets/55931484/49a37cc3-a84c-4f48-85e1-9b91a313e820)![images](https://github.com/codedestructed007/codedestructed007/assets/55931484/dfcf4472-ab61-4ebd-958f-6aa87202b8e1)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%40YourName-blue)](https://www.linkedin.com/in/yourname)
-[![Twitter](https://img.shields.io/badge/Twitter-%40YourHandle-blue)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-%40YourGitHub-green)](https://github.com/yourgithub)
 
-## Quote of the Day
+
+
+
+
+
+
+
+
+
+## Quote I Live By 🔥
 
 > "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do." - Steve Jobs
 
