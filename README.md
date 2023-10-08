@@ -1,5 +1,6 @@
+![Hello World](https://github.com/codedestructed007/codedestructed007/assets/55931484/7aa8207b-3789-4bb1-8d74-fd01a9041a2d)
 
-# Satyam Sharma | Data Scientist 👨‍💻
+#  Data Scientist 👨‍💻
 
 ## About Me
 
