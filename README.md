@@ -1,4 +1,5 @@
-![Hello World](https://github.com/codedestructed007/codedestructed007/assets/55931484/7aa8207b-3789-4bb1-8d74-fd01a9041a2d)
+![luke-chesser-JKUTrJ4vK00-unsplash](https://github.com/codedestructed007/codedestructed007/assets/55931484/5ec3b46f-a49b-44ec-8361-fbba6e85023b)
+
 
 #  Data Scientist 👨‍💻
 
@@ -17,7 +18,13 @@ Much like Apple's attention to detail, I prioritize aesthetics in my projects. B
 
 # Skills 🚀
 
- ![kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e94133f66 5495283515234781640788](https://github.com/codedestructed007/codedestructed007/assets/55931484/eae1c0bd-bd54-40a4-aba0-ee8387c62374)![download-removebg-preview](https://github.com/codedestructed007/codedestructed007/assets/55931484/266e5f9a-28cb-47e6-b347-352982096c49)![Powered-By-AWSLogo@zeevector](https://github.com/codedestructed007/codedestructed007/assets/55931484/8f62a147-8503-41a1-9699-6afc0afeb0f4)![icons8-docker-48](https://github.com/codedestructed007/codedestructed007/assets/55931484/27b96710-8579-4d5b-9aa1-97050c47adf7)![181510038-e38f4001-c304-411e-8f45-f71554eb9763](https://github.com/codedestructed007/codedestructed007/assets/55931484/49a37cc3-a84c-4f48-85e1-9b91a313e820)![images](https://github.com/codedestructed007/codedestructed007/assets/55931484/dfcf4472-ab61-4ebd-958f-6aa87202b8e1)
+ ***Python***
+ ***Machine Learning***
+ ***Statistics***
+ ***SQL***
+ ***Version Control***
+ ***Docker***
+ ***AWS***
 
 
 
