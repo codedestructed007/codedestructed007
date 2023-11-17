@@ -3,7 +3,8 @@
 
 #  Data Scientist 👨‍💻
 
-## About Me
+## About Me 
+(*This page is more oriented towards my passion and my opinions. For my technical skills, please visit my portfolio webpage - [https://github.com/codedestructed007/codedestructed007]. Feel free to explore my projects and coding proficiency there*)
 
 Welcome to my GitHub profile! 🚀 I'm a data scientist with a passion for Steve Jobs' innovative spirit. Just like Steve, I believe in thinking different and using data to drive extraordinary results.
 
@@ -19,10 +20,10 @@ Much like Apple's attention to detail, I prioritize aesthetics in my projects. B
 # Skills 🚀
 
  ***Python***
- ***Machine Learning***
+ ***Machine Learning algorithms***
  ***Statistics***
  ***SQL***
- ***Version Control***
+ ***Version Control (GIT)***
  ***Docker***
  ***AWS***
 
