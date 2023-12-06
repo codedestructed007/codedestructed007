@@ -21,6 +21,9 @@ Much like Apple's attention to detail, I prioritize aesthetics in my projects. B
 
  ***Python***
  ***Machine Learning algorithms***
+ ***Natural Language Processing***
+ ***Deep Learning***
+ ***CNN***
  ***Statistics***
  ***SQL***
  ***Version Control (GIT)***
